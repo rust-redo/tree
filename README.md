@@ -1,2 +1,3 @@
 # tree
-Binary tree in Box and Rc
+
+Binary tree using `Box` and `Rc`.
